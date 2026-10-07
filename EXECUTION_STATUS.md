@@ -9,7 +9,7 @@ The exact final RF-DETR Small checkpoint was downloaded from the official Robofl
 
 Checkpoint127380711bytes; SHA2567311614347d35c52992a222c750f2d468ea20ec8862f144889d1e21302615967. This legacy local checkpoint's class indices differ from hosted inference: local1building/2tent; hosted0building/1tent. Class mapping must be checked separately for other weights.
 
-No GitHub destination or public release URL is established. Original figure reproduction permissions remain unresolved. The October6 blockers below are historical and superseded by the verified download/local runs and successful hosted connector call. The standalone hosted CLI has not yet been exercised successfully against the restored service.
+Public repository: https://github.com/najahpokkiri/llm-labels-for-object-detection-training. Tested checkpoint release: https://github.com/najahpokkiri/llm-labels-for-object-detection-training/releases/tag/v0.1.0. Fresh public clone:11 tests passed. The publicly downloaded127380711-byte checkpoint matched the expected SHA256 and the cloned infer_local.py produced the same113 tent and11 building candidates on the same Gaza crop. Original figure reproduction permissions remain unresolved. The October6 blockers below are historical and superseded by the verified download/local runs and successful hosted connector call. The standalone hosted CLI has not yet been exercised successfully against the restored service.
 
 ---
 
